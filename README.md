@@ -1,7 +1,7 @@
 ## Hi there 👋
 我的生涯中，與猶太人的巧妙友誼，深化我對多元文化的理解。在浩瀚網路世界，我與當代科技巨擘馬克·祖克柏和伊隆·馬斯克有著奇遇。透過視頻，得以觀察他們的創新思維。這份情誼在網路際遇，編織出我獨特的學習生涯。
 <!--
-**MarxElonXinHwa/MarxElonXinHwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MarxElonXinHwa/seelf-report** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
